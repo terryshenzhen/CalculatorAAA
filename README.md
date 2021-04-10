@@ -9,7 +9,7 @@
 比较漂亮UI的计算器 beautiful UI calculator。
 
 
-![image](https://github.com/terryshenzhen/HisiconfigrationTool/blob/main/screen111.PNG)
+![image](https://github.com/terryshenzhen/CalculatorAAA/blob/main/Capture_calculator.PNG)
 
 
 
